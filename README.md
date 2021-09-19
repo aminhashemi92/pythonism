@@ -1,0 +1,2 @@
+# pythonism
+learning python
