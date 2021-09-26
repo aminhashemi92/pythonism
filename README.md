@@ -1,2 +1,4 @@
 # pythonism
-learning python
+learning python course
+##september 2021
+
